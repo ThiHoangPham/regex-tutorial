@@ -1,6 +1,7 @@
-# Title (replace with your title)
+# REGEX TUTORIAL
 
-Introductory paragraph (replace this with your text)
+This Regex Tutorial explains how using expression to match emails.
+/^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/
 
 ## Summary
 
