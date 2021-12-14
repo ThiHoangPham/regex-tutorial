@@ -76,12 +76,9 @@ It also matches a character 0-9 and matches the characters "_" , "-" , and ".";
 ## The OR Operator
 ```
 Using the OR operator (|), the expression [abc] could be written as (a|b|c). Using our example in the grouping constructs section, we can take the original expression:
-
 (abc):(xyz)
 And then use the OR operator to convert it to the following:
-
 (a|b|c):(x|y|z)
-
 But in this Regex Tutorial we not using OR Operator
 ```
 ## Flags
