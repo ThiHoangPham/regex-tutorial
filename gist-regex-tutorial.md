@@ -11,7 +11,7 @@ Regex are a series of special characters that define a search pattern. A sequenc
 --> matches anything in the universe . 
 --> any character
 ```
-# Table of Contents
+## Table of Contents
 
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
@@ -24,27 +24,40 @@ Regex are a series of special characters that define a search pattern. A sequenc
 
 # Regex Components
 
-### Anchors
+## Anchors
 ```
 Special sequences which match an empty substring:
 ^ --> matches at the beginning of the target string
 $ --> matches at the end of the target string
 (m), or multiline is not enabled, so the regex will end at $
 ```
-### Quantifiers
+## Quantifiers
+```
+Regular expressions use quantifiers to generate unbounded matching possibilities and other matching amount specifications.
+* --> 0 or more occurrences of the atom
++ --> 1 or more occurrences of the atom
+? --> 0 or 1 occurrences of the atom
+Quantifiers in this regex:
++ --> connect the users email name + email service + .com. 
+{2,6} --> allow a match range of 2-6 characters for the character set of [a-z\.]
+```
+## Grouping Constructs
 
-### Grouping Constructs
+## Bracket Expressions
 
-### Bracket Expressions
+## Character Classes
 
-### Character Classes
+## The OR Operator
 
-### The OR Operator
+## Flags
 
-### Flags
-
-### Character Escapes
+## Character Escapes
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Find more my works at Github: 
+[Thai Hoang(Adam), Pham](https://github.com/ThiHoangPham)
+</br>
+Get in contact via email: thaihoangpham2008@gmail.com
+- - -
+© 2021 Thai Hoang(Adam), Pham: Regex Tutorial
