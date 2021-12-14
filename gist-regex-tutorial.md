@@ -85,7 +85,13 @@ But in this Regex Tutorial we not using OR Operator
 ```
 ## Flags
 ```
-
+Flags, in a regular expression, are tokens that modify its behavior of searching
+i --> Ignore Casing (Makes the expression search case-insensitively.)
+g --> Global (Makes the expression search for all occurences.)
+s --> Dot All (Makes the wild character "." match newlines as well.)
+m --> Multiline (Makes the boundary characters "^" and "$" match the beginning and ending of every single line instead of the beginning and ending of the whole string.)
+y --> Sticky (Makes the expression start its searching from the index indicated in its lastIndex property.)
+u --> Unicode (Makes the expression assume individual characters as code points, not code units, and thus match 32-bit characters as well.)
 ```
 ## Character Escapes
 ```
