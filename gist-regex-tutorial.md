@@ -59,5 +59,3 @@ Find more my works at Github:
 [Thai Hoang(Adam), Pham](https://github.com/ThiHoangPham)
 </br>
 Get in contact via email: thaihoangpham2008@gmail.com
-- - -
-© 2021 Thai Hoang(Adam), Pham: Regex Tutorial
