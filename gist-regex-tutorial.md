@@ -5,7 +5,10 @@ This Regex Tutorial explains how using expression to match emails.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Regex are a series of special characters that define a search pattern. A sequence of characters that defines a search pattern in a body of text A metacharacter is a character that has a special meaning during pattern processing. You use metacharacters in regular expressions to define the search criteria and any text manipulations. -www.github.com \d
+--> any digit from 0-9 .* 
+--> matches anything in the universe . 
+--> any character
 
 ## Table of Contents
 
