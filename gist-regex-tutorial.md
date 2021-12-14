@@ -43,13 +43,23 @@ Quantifiers in this regex:
 ```
 ## Grouping Constructs
 ```
-Grouping constructs in this regex:
 ([a-z0-9_\.-]+) --> matches the user email name. 
 ([\da-z\.-]+) --> matches the email service. 
 ([a-z\.]{2,6}) --> captures the .com.
 ```
 ## Bracket Expressions
-
+```
+Represents a character set via a list of characters enclosed by the square brackets:
+"[" and "]". It matches the target with any single character from the list.
+Bracket expressions in thie regex:
+[a-z0-9_\.-]
+--> matching any letter a-z and is case senstive.
+It also matches a character 0-9 and matches the characters "_" , "-" , and "."; 
+[\da-z\.-]
+--> matching a single digit from 0-9, any character a-z (case senstive),and the characters "." and "-".; 
+[a-z\.]
+--> matches any character a-z(case senstive) and the character ".".
+```
 ## Character Classes
 
 ## The OR Operator
