@@ -74,7 +74,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 This project is looking for contributions at all time.
 
 # License
-  Distributed under the [MIT](hhttps://github.com/ThiHoangPham/regex-tutorial/blob/main/LICENSE).
+  Distributed under the [MIT](https://github.com/ThiHoangPham/regex-tutorial/blob/main/LICENSE)
 
   # Questions & Contact Info
   Find more my works at Github: 
