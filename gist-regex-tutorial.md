@@ -84,9 +84,21 @@ And then use the OR operator to convert it to the following:
 But in this Regex Tutorial we not using OR Operator
 ```
 ## Flags
+```
 
+```
 ## Character Escapes
+```
 
+```
+## Sources
+```
+https://www.cs.wcupa.edu/
+https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
+https://www.codeguage.com/
+https://www.youtube.com/watch?v=ZfQFUJhPqMM
+https://docs.github.com/en/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists
+```
 ## Author
 
 Find more my works at Github: 
