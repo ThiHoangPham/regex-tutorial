@@ -6,10 +6,10 @@ This Regex Tutorial explains how using expression to match emails.
 # Summary
 ```
 Regex are a series of special characters that define a search pattern. A sequence of characters that defines a search pattern in a body of text A metacharacter is a character that has a special meaning during pattern processing. You use metacharacters in regular expressions to define the search criteria and any text manipulations.
--www.github.com \d
---> any digit from 0-9 .* 
---> matches anything in the universe . 
---> any character
+-www.github.com
+\d --> any digit from 0-9 
+.* --> matches anything in the universe
+.  --> any character
 ```
 ## Table of Contents
 
@@ -22,7 +22,9 @@ Regex are a series of special characters that define a search pattern. A sequenc
 - [Flags](#flags)
 - [Character Escapes](#character-escapes)
 
-# Regex Components
+## Regex Components
+
+
 
 ## Anchors
 ```
@@ -33,19 +35,19 @@ $ --> matches at the end of the target string
 ```
 ## Quantifiers
 ```
-Regular expressions use quantifiers to generate unbounded matching possibilities and other matching amount specifications.
+Regular expressions use quantifiers to generate unbounded matching possibilities and other matching amount specifications
 * --> 0 or more occurrences of the atom
 + --> 1 or more occurrences of the atom
 ? --> 0 or 1 occurrences of the atom
 Quantifiers in this regex:
-+ --> connect the users email name + email service + .com. 
++ --> connect the users email name + email service + .com
 {2,6} --> allow a match range of 2-6 characters for the character set of [a-z\.]
 ```
 ## Grouping Constructs
 ```
-([a-z0-9_\.-]+) --> matches the user email name. 
-([\da-z\.-]+) --> matches the email service. 
-([a-z\.]{2,6}) --> captures the .com.
+([a-z0-9_\.-]+) --> matches the user email name
+([\da-z\.-]+) --> matches the email service
+([a-z\.]{2,6}) --> captures the .com
 ```
 ## Bracket Expressions
 ```
@@ -61,7 +63,9 @@ It also matches a character 0-9 and matches the characters "_" , "-" , and ".";
 --> matches any character a-z(case senstive) and the character ".".
 ```
 ## Character Classes
-
+```
+\d --> matches a single characters that is a digit from 0-9
+```
 ## The OR Operator
 
 ## Flags
