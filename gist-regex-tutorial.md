@@ -1,8 +1,9 @@
 # REGEX TUTORIAL
 
 This Regex Tutorial explains how using expression to match emails.
+```
 /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/
-
+```
 ## Summary
 ```
 Regex are a series of special characters that define a search pattern. A sequence of characters that defines a search pattern in a body of text A metacharacter is a character that has a special meaning during pattern processing. You use metacharacters in regular expressions to define the search criteria and any text manipulations.
@@ -95,7 +96,12 @@ u --> Unicode (Makes the expression assume individual characters as code points,
 ```
 ## Character Escapes
 ```
-
+\w --> word (program identifier) character: [A-Za-z0-9_]
+\w --> non-word character: [^A-Za-z0-9_]
+\s --> whitespace character: [ \f\n\r\t]
+\s --> non-whitespace character: [^ \f\n\r\t]
+\d --> digit character: [0-9]
+\D --> non-digit character: [^0-9]
 ```
 ## Sources
 ```
