@@ -6,25 +6,22 @@
   <img alt="gist github" src="https://img.shields.io/badge/Gist-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   <br>
   <a href="#">
-  <img alt="watchers" src="https://img.shields.io/github/watchers/ThiHoangPham/updated-professional-materials?color=%2346b946&style=flat-square" target="_blank" />
+  <img alt="watchers" src="https://img.shields.io/github/watchers/ThiHoangPham/regex-tutorial?color=%2346b946&style=flat-square" target="_blank" />
   <a href="#">
-  <img alt="rep size" src="https://img.shields.io/github/repo-size/ThiHoangPham/updated-professional-materials?style=flat-square" target="_blank" />
-  <a href="https://github.com/ThiHoangPham/updated-professional-materials/blob/main/LICENSE">
-  <img alt="License: GNU 3.0" src="https://img.shields.io/badge/license-GNU-yellow.svg?style=flat-square" target="_blank" />
+  <img alt="rep size" src="https://img.shields.io/github/repo-size/ThiHoangPham/regex-tutorial?style=flat-square" target="_blank" />
+  <a href="https://github.com/ThiHoangPham/regex-tutorial/blob/main/LICENSE">
+  <img alt="MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg?style=flat-square" target="_blank" />
   </a>
   <a href="#">
-  <img alt="fork" src="https://img.shields.io/github/forks/ThiHoangPham/updated-professional-materials.svg?style=flat-square" target="_blank" />
+  <img alt="fork" src="https://img.shields.io/github/forks/ThiHoangPham/regex-tutorial.svg?style=flat-square" target="_blank" />
   <a href="#">
-  <img alt="repo star" src="https://img.shields.io/github/stars/ThiHoangPham/updated-professional-materials?color=%23ff00bf&style=flat-square" target="_blank" />
+  <img alt="repo star" src="https://img.shields.io/github/stars/ThiHoangPham/regex-tutorial?color=%23ff00bf&style=flat-square" target="_blank" />
   </a>
   <a href="#">
-  <img alt="contributors" src="https://img.shields.io/github/contributors/ThiHoangPham/updated-professional-materials?style=flat-square" target="_blank" />
+  <img alt="contributors" src="https://img.shields.io/github/contributors/ThiHoangPham/regex-tutorial?style=flat-square" target="_blank" />
   </a>
   <a href="#">
-  <img alt="top language" src="https://img.shields.io/github/languages/top/ThiHoangPham/updated-professional-materials?color=%23ff4000&style=flat-square" target="_blank" />
-  </a>
-  <a href="#">
-  <img alt="issue open" src="https://img.shields.io/github/issues-raw/ThiHoangPham/updated-professional-materials?style=flat-square" target="_blank" />
+  <img alt="issue open" src="https://img.shields.io/github/issues-raw/ThiHoangPham/regex-tutorial?style=flat-square" target="_blank" />
   </a>
 </p>
 <hr>
@@ -69,8 +66,8 @@ THEN I find a section about the author and a link to the author’s GitHub profi
   </a>
 
 # Contributor
-<a href="https://github.com/ThiHoangPham/updated-professional-materials">
-  <img alt="contributor" src="https://contrib.rocks/image?repo=ThiHoangPham/updated-professional-materials" target="_blank" />
+<a href="https://github.com/ThiHoangPham/regex-tutorial">
+  <img alt="contributor" src="https://contrib.rocks/image?repo=ThiHoangPham/regex-tutorial" target="_blank" />
   </a>
 
 # Contribution
