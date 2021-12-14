@@ -3,7 +3,7 @@
 This Regex Tutorial explains how using expression to match emails.
 /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/
 
-# Summary
+## Summary
 ```
 Regex are a series of special characters that define a search pattern. A sequence of characters that defines a search pattern in a body of text A metacharacter is a character that has a special meaning during pattern processing. You use metacharacters in regular expressions to define the search criteria and any text manipulations.
 -www.github.com
@@ -23,9 +23,15 @@ Regex are a series of special characters that define a search pattern. A sequenc
 - [Character Escapes](#character-escapes)
 
 ## Regex Components
-
-
-
+```
+Single characters
+Wild card
+Bracket Expressions
+Control Characters
+Escape character sets
+Anchors
+Recursive expansion
+```
 ## Anchors
 ```
 Special sequences which match an empty substring:
