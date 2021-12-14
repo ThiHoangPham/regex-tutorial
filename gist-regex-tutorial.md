@@ -42,7 +42,12 @@ Quantifiers in this regex:
 {2,6} --> allow a match range of 2-6 characters for the character set of [a-z\.]
 ```
 ## Grouping Constructs
-
+```
+Grouping constructs in this regex:
+([a-z0-9_\.-]+) --> matches the user email name. 
+([\da-z\.-]+) --> matches the email service. 
+([a-z\.]{2,6}) --> captures the .com.
+```
 ## Bracket Expressions
 
 ## Character Classes
