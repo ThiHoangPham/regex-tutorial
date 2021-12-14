@@ -57,7 +57,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 - [Deployment ](#deployment)
 - [Contributor](#contributor)
 - [Contribution](#contribution)
-- [Licence](#licence)
+- [Licence](#license)
 - [Questions & Contact Info](#questions-&-contact-info)
 
 # Deployment 
